@@ -1,4 +1,4 @@
-# data-table
+# Tutorial of using Vueitfy and Jsoneditor(with page split)
 
 ## Project setup
 ```
